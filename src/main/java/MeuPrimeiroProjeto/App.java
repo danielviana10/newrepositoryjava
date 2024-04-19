@@ -9,5 +9,6 @@ public class App {
         System.out.println("Olá mundo");
         System.out.println("Meu segundo comendo de sáida!");
         System.out.println("Meu terceiro comando");
+        System.out.println("meu quarto comando!");
     }
 }
