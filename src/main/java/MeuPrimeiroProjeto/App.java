@@ -7,6 +7,7 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println("Olá mundo");
-        System.out.println("Meu segundo comendao de sáida!");
+        System.out.println("Meu segundo comendo de sáida!");
+        System.out.println("Meu terceiro comando");
     }
 }
